@@ -8,12 +8,10 @@
 
 # In[1]:
 
-
 # Run this cell first!
 
 from helpers import Map, load_map_10, load_map_40, show_map
 import math
-
 get_ipython().run_line_magic('load_ext', 'autoreload')
 get_ipython().run_line_magic('autoreload', '2')
 
